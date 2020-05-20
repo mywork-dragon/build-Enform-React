@@ -7,11 +7,11 @@
 
 <br />
 
-[![moubi](https://img.shields.io/circleci/build/gh/moubi/enform?label=circleci&style=flat-square)](https://circleci.com/gh/moubi/swipeable-react)
-[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/moubi/enform.svg?style=flat-square&logo=lgtm&logoWidth=15)](https://lgtm.com/projects/g/moubi/enform/context:javascript)
-[![moubi](https://img.shields.io/npm/v/enform?style=flat-square)](https://www.npmjs.com/package/enform)
-[![moubi](https://img.shields.io/static/v1?style=flat-square&label=gzip%20size&message=1.6%20kB&color=green)](#development)
-[![moubi](https://img.shields.io/github/license/moubi/enform?style=flat-square)](LICENSE)
+[![mywork-dragon](https://img.shields.io/circleci/build/gh/mywork-dragon/enform?label=circleci&style=flat-square)](https://circleci.com/gh/mywork-dragon/swipeable-react)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/mywork-dragon/enform.svg?style=flat-square&logo=lgtm&logoWidth=15)](https://lgtm.com/projects/g/mywork-dragon/enform/context:javascript)
+[![mywork-dragon](https://img.shields.io/npm/v/enform?style=flat-square)](https://www.npmjs.com/package/enform)
+[![mywork-dragon](https://img.shields.io/static/v1?style=flat-square&label=gzip%20size&message=1.6%20kB&color=green)](#development)
+[![mywork-dragon](https://img.shields.io/github/license/mywork-dragon/enform?style=flat-square)](LICENSE)
 
 [Usage](docs/index.md#basic-form-field-and-a-button) • [Examples](docs/index.md#documentation) • [API](docs/index.md#api) • [Contribute](#contributing) • [License](LICENSE)
 </div>
@@ -156,7 +156,7 @@ You are welcome to open pull requests, issues with bug reports (use [codesandbox
 Enform is inspired by my experience with form refactoring, [@jaredpalmer](https://jaredpalmer.com/)'s great work on [Formik](https://github.com/jaredpalmer/formik) and the way [@kamranahmedse](https://github.com/kamranahmedse)'s presented [driver.js](https://github.com/kamranahmedse/driver.js).
 
 ## Authors
-Miroslav Nikolov ([@moubi](https://github.com/moubi))
+mywork-dragon ([@mywork-dragon](https://github.com/mywork-dragon))
 
 ## License
 [MIT](LICENSE)

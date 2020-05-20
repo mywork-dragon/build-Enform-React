@@ -6,7 +6,7 @@ We are all busy with jobs, family or hobbies, but also want to spend some time o
 
 ### ⌨︎ Working with the codebase
 Before opening a PR:
- - check if what you are planning to work on is in [open issues](https://github.com/moubi/enform/issues)
+ - check if what you are planning to work on is in [open issues](https://github.com/mywork-dragon/enform/issues)
  - if not, open a new one and attach some labels *(check below)*
  - if it's there - join the discussion
  - go ahead with your PR
@@ -20,7 +20,7 @@ Ideally, provide codesandbox example 🙏. [Fork the basic demo](https://codesan
 It is good to start working on new features based on issues/discussion and not opened PR in order to avoid closing irrelevant ones. Creating an issue with <kbd>feature request</kbd> label is a good starting point.
 
 ### ❓ If you have a question
-Check the [docs](docs/index.md#documentation) first. May be you will find the answer there. How about the [open issues](https://github.com/moubi/enform/issues) - did someone already ask the same?
+Check the [docs](docs/index.md#documentation) first. May be you will find the answer there. How about the [open issues](https://github.com/mywork-dragon/enform/issues) - did someone already ask the same?
 **If not feel free to create new issue and attach the <kbd>question</kbd> label.**
 
 ### 🏷 Issue labels/tags
@@ -31,7 +31,7 @@ Mark your issues with the following lables where it make sense:
  - <kbd>help wanted</kbd> - if you need help with the code
  - <kbd>discussion</kbd> - anything that you would like to bring in
 
- All supported labels are [listed here](https://github.com/moubi/enform/labels).
+ All supported labels are [listed here](https://github.com/mywork-dragon/enform/labels).
  ___
 
- ### ☕️ Thank you again for finding time for [Enform](https://github.com/moubi/enform)!
+ ### ☕️ Thank you again for finding time for [Enform](https://github.com/mywork-dragon/enform)!

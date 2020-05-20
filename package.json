@@ -3,12 +3,12 @@
   "version": "2.2.3",
   "main": "lib/index.js",
   "description": "Handle React forms with joy!",
-  "homepage": "https://github.com/moubi/enform#readme",
-  "author": "Miroslav Nikolov",
+  "homepage": "https://github.com/mywork-dragon/enform#readme",
+  "author": "mywork-dragon",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/moubi/enform"
+    "url": "https://github.com/mywork-dragon/enform"
   },
   "keywords": [
     "react",
